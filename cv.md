@@ -35,3 +35,19 @@ function nicknameGenerator(name) {
 }
 ```
 ***
+### Education
+**University:** 
+* Belarusian State Economic University ('Finance')
+* Belarusian State University of Informatics and Radioelectronics ('Web design and computer graphics')
+
+**Courses:** 
+* IT Academy 'Step'- Front End Development
+* IT Academy 'Digital Unicorn' - Web design
+* JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru)(in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+***
+### Languages
+* Russian - Native
+* Belorussian - Native
+* English - A2+
+* Czech - B2
