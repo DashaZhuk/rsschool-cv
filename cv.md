@@ -21,3 +21,17 @@ I have good interpersonal communication skills, I love working in a team and I r
 * Figma, Tilda, InVision
 * Adobe Photoshop, Adobe Illustrator
 ***
+### Code Example
+**Nickname Generator from Codewarse:** *Write a function, nicknameGenerator that takes a string name as an argument and returns the first 3 or 4 letters as a nickname. If the 3rd letter is a consonant, return the first 3 letters. If the 3rd letter is a vowel, return the first 4 letters.If the string is less than 4 characters, return "Error:Name too short".*
+```javascript
+function nicknameGenerator(name) {
+  if (name.length < 4) {
+    return "Error: Name too short";
+  } else if ("aeiou".indexOf(name[2].toLowerCase()) != -1) {
+    return name.slice(0, 4);
+  } else {
+    return name.slice(0, 3);
+  }
+}
+```
+***
